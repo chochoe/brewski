@@ -1,3 +1,4 @@
+// home page functionality
 import React from "react";
 import { Col, Row, Container } from "../components/Grid";
 import Capture from "../components/Capture";
