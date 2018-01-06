@@ -1,3 +1,4 @@
+// user uploaded beer
 "use strict";
 module.exports = {
   up: (queryInterface, Sequelize) => {
