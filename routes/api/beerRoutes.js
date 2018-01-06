@@ -7,6 +7,7 @@ const brewdb = new BreweryDb(process.env.BREWERY_DB);
 
 router.post("/", (req, res) => {
   
+  // check for name spelling
   let spellCheckedName = "";
   let arrayOfBeer = req.body.imageResults[1].split(" ");
   for (let i = 0; i < arrayOfBeer.length; i++) {
