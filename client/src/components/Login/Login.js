@@ -1,3 +1,5 @@
+// modal for login stuff
+
 import React from "react";
 import Modal from "react-responsive-modal";
 import OAuth from "./OAuth";
