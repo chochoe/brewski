@@ -1,4 +1,5 @@
 module.exports = (sequelize, DataTypes) => {
+  // RateBeer beer review table
   const Reviews = sequelize.define("Reviews", {
     starred: {
       type: DataTypes.BOOLEAN,
