@@ -1,4 +1,5 @@
 module.exports = (sequelize, DataTypes) => {
+  // stored user login categories
   const Users = sequelize.define("Users", {
     username: {
       type: DataTypes.STRING,
