@@ -1,3 +1,4 @@
+// review data
 "use strict";
 module.exports = {
   up: (queryInterface, Sequelize) => {
