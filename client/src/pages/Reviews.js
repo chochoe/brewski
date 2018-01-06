@@ -1,3 +1,4 @@
+// function to display reviews on reviews page
 import React from "react";
 import { List, ListItem } from "../components/List";
 import { Jumbotron } from "react-bootstrap";
