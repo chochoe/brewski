@@ -1,3 +1,4 @@
+// app functionality code
 import React from "react";
 import Nav from "./components/Nav";
 import Home from "./pages/Home";
