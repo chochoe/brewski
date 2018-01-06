@@ -1,3 +1,5 @@
+// seeder files are now part of seeders folder
+
 // const mongoose = require("mongoose");
 // const db = require("../models");
 // mongoose.Promise = global.Promise;
