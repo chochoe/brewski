@@ -1,3 +1,4 @@
+// sample user data for app
 "use strict";
 module.exports = {
   up: (queryInterface, Sequelize) => {
