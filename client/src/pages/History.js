@@ -1,3 +1,4 @@
+// history page functionality
 import React from "react";
 import { List, ListButtonItem } from "../components/List";
 import { Jumbotron } from "react-bootstrap";
