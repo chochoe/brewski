@@ -1,3 +1,4 @@
+// beer information and other stuff
 "use strict";
 module.exports = {
   up: (queryInterface, Sequelize) => {
