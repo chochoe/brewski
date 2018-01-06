@@ -1,3 +1,4 @@
+// code to show reviews
 import React from "react";
 import { Jumbotron } from "react-bootstrap";
 import { List, Item } from "../List";
