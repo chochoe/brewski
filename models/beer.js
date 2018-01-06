@@ -1,4 +1,5 @@
 module.exports = (sequelize, DataTypes) => {
+  // table columns for beer
   const Beers = sequelize.define("Beers", {
     beername: {
       type: DataTypes.STRING,
