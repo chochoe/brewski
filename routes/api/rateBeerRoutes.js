@@ -1,3 +1,5 @@
+// routes for RateBeer review search
+
 const router = require("express").Router();
 const request = require("request");
 
