@@ -1,3 +1,5 @@
+// code for columns
+
 import React from "react";
 
 
