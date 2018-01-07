@@ -1,3 +1,5 @@
+// each item on list
+
 import React from "react";
 import { Row, Col } from "../Grid";
 import { Item } from "./Item";
