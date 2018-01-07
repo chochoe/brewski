@@ -1,3 +1,5 @@
+// divs for each list item
+
 import React from "react";
 
 
