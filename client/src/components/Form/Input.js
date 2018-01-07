@@ -1,3 +1,5 @@
+// input function for text area
+
 import React from "react";
 
 
