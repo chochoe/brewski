@@ -1,3 +1,5 @@
+// buttons for each list item
+
 import React from "react";
 import { Row, Col } from "../Grid";
 import { Item } from "./Item";
