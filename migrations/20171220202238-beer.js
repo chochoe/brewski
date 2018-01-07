@@ -1,3 +1,5 @@
+// beer table migrations
+
 "use strict";
 module.exports = {
   up: (queryInterface, Sequelize) => {
