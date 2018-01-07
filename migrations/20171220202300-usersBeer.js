@@ -1,3 +1,5 @@
+// migrations for beer uploads
+
 "use strict";
 module.exports = {
   up: (queryInterface, Sequelize) => {
