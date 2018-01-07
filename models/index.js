@@ -1,3 +1,5 @@
+// scripts for models
+
 "use strict";
 
 var fs        = require("fs");
