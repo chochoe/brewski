@@ -1,3 +1,5 @@
+// for each of the list items
+
 import React from "react";
 
 
