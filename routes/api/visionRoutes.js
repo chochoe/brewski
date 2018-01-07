@@ -1,3 +1,5 @@
+// routing to use Google Cloud Vision API
+
 const router = require("express").Router();
 const vision = require("node-cloud-vision-api");
 
